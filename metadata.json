@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI Studio",
+  "description": "A comprehensive AI-powered image toolsuite. Features include reverse image analysis, style-based similar image generation, watermark removal, upscaling, outpainting, and intelligent local editing.",
+  "requestFramePermissions": []
+}
